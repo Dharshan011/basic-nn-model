@@ -11,7 +11,8 @@ In this model we will discuss with a neural network with 3 layers of neurons exc
 
 ## Neural Network Model
 
-![alt text](image.png)
+![Screenshot 2024-03-17 192855](https://github.com/Dharshan011/basic-nn-model/assets/113497491/1f936b22-e5c0-477f-874a-a32c322e518f)
+
 ## DESIGN STEPS
 
 ### STEP 1:
@@ -105,20 +106,25 @@ ai_brain.predict(X_n1_1)
 
 ```
 ## Dataset Information
+![Screenshot 2024-03-17 192905](https://github.com/Dharshan011/basic-nn-model/assets/113497491/c79611b5-e13e-407e-902c-a6ace992017c)
 
-![alt text](image-1.png)
 
 ## OUTPUT
 
 ### Training Loss Vs Iteration Plot
-![alt text](image-2.png)
+
+![Screenshot 2024-03-17 192913](https://github.com/Dharshan011/basic-nn-model/assets/113497491/5441c0c2-71d4-4b76-8ffa-54ed84090e08)
 
 ### Test Data Root Mean Squared Error
 
-![alt text](image-3.png)
+![Screenshot 2024-03-17 192918](https://github.com/Dharshan011/basic-nn-model/assets/113497491/c6d0d9b9-c2cf-4dba-972d-ad2321e07f9e)
+
+
 
 ### New Sample Data Prediction
-![alt text](image-4.png)
+![Screenshot 2024-03-17 192923](https://github.com/Dharshan011/basic-nn-model/assets/113497491/47446667-ca25-46a7-a5ce-7d257e817f82)
+
+
 
 ## RESULT
 
