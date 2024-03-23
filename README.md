@@ -106,24 +106,24 @@ ai_brain.predict(X_n1_1)
 
 ```
 ## Dataset Information
-![Screenshot 2024-03-17 192905](https://github.com/Dharshan011/basic-nn-model/assets/113497491/c79611b5-e13e-407e-902c-a6ace992017c)
+![Screenshot 2024-03-23 143841](https://github.com/Dharshan011/basic-nn-model/assets/113497491/e7d2b0fa-e0e0-496f-9a13-465bfdb53171)
 
 
 ## OUTPUT
 
 ### Training Loss Vs Iteration Plot
+![Screenshot 2024-03-23 143858](https://github.com/Dharshan011/basic-nn-model/assets/113497491/b8eaa81f-a847-4334-b5f2-e9ce42b215f9)
 
-![Screenshot 2024-03-17 192913](https://github.com/Dharshan011/basic-nn-model/assets/113497491/5441c0c2-71d4-4b76-8ffa-54ed84090e08)
 
 ### Test Data Root Mean Squared Error
 
-![Screenshot 2024-03-17 192918](https://github.com/Dharshan011/basic-nn-model/assets/113497491/c6d0d9b9-c2cf-4dba-972d-ad2321e07f9e)
 
+![Screenshot 2024-03-23 144141](https://github.com/Dharshan011/basic-nn-model/assets/113497491/a2f98957-d151-4e15-9d25-58a23019089b)
 
 
 ### New Sample Data Prediction
-![Screenshot 2024-03-17 192923](https://github.com/Dharshan011/basic-nn-model/assets/113497491/47446667-ca25-46a7-a5ce-7d257e817f82)
 
+![Screenshot 2024-03-23 144147](https://github.com/Dharshan011/basic-nn-model/assets/113497491/56bf2911-897e-41e8-bbe2-3d8c6f985fca)
 
 
 ## RESULT
